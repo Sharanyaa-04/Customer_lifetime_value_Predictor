@@ -35,3 +35,10 @@ Place model.pkl in the same directory as app.py. The app will use it automatical
 
 Use Cases:
 This tool can support customer segmentation, revenue forecasting, retention analysis, and marketing planning.
+
+Below are the images of the dashboard:
+<img width="1600" height="747" alt="image" src="https://github.com/user-attachments/assets/0260f0b3-d27b-4ad7-80a3-80f38badabf3" />
+<img width="1600" height="782" alt="image" src="https://github.com/user-attachments/assets/ac1e9e78-6ca3-499a-9725-7e9f63c0d834" />
+<img width="1335" height="300" alt="Screenshot 2025-11-26 at 8 13 28 PM" src="https://github.com/user-attachments/assets/6c7af649-1d2f-46dc-a17d-495a8b72c4a0" />
+<img width="1457" height="712" alt="Screenshot 2025-11-26 at 8 13 15 PM" src="https://github.com/user-attachments/assets/dd672bea-39f5-456d-9fe0-4858abfead61" />
+
