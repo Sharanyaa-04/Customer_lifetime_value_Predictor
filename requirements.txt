@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xlsxwriter
+openpyxl
+xlsxwriter
+# optional:
+xgboost
+EOF
