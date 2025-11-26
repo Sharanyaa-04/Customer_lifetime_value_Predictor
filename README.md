@@ -1,4 +1,4 @@
-Customer Lifetime Value (CLV) Prediction 
+## **Customer Lifetime Value (CLV) Prediction**
 
 This project provides a Streamlit dashboard to predict Customer Lifetime Value (CLV) using a Linear Regression model. The app allows users to input customer attributes, view CLV predictions, understand feature impact, and compare customers against a dataset.
 
